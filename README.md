@@ -1,1 +1,0 @@
-CommitJournal for Transaction
